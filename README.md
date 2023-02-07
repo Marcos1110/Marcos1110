@@ -2,7 +2,7 @@
 Seja bem vindo, visitante! Meu nome é Marcos Vinícius e serei seu anfitrião!
 
 - 🔭 Atualmente não trabalho na área, mas busco uma oportunidade como Full-Stack
-- 🌱 Cursando Bacharel em Sistemas de Informação pela Universidade de Uberaba (UNIUBE)
+- 🌱 Cursando Bacharelado em Sistemas de Informação pela Universidade de Uberaba (UNIUBE)
 - 📚 Estudando Desenvolvimento Web (HTML, CSS e JavaScript)
 
 <div style="display: inline_block"><br>
