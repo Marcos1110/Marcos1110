@@ -1,7 +1,7 @@
 ## Hello There! 
 Seja bem vindo, visitante! Meu nome é Marcos Vinícius e serei seu anfitrião!
 
-- 🔭 Atualmente não trabalho na área, mas busco uma oportunidade como desenvolvimento back-end
+- 🔭 Atualmente não trabalho na área, mas busco uma oportunidade como desenvolvedor back-end
 - 🌱 Cursando Bacharelado em Sistemas de Informação pela Universidade de Uberaba (UNIUBE)
 - 📚 Estudando Desenvolvimento Web (HTML, CSS e JavaScript)
 
