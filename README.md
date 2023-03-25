@@ -3,14 +3,12 @@ Seja bem vindo, visitante! Meu nome é Marcos Vinícius e serei seu anfitrião!
 
 - 🔭 Atualmente não trabalho na área, mas busco uma oportunidade como desenvolvedor back-end
 - 🌱 Cursando Bacharelado em Sistemas de Informação pela Universidade de Uberaba (UNIUBE)
-- 📚 Estudando Desenvolvimento Web (HTML, CSS e JavaScript)
+- 📚 Estudando Python
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="html5Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="css3Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <img align="center" alt="jsIcon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="javaIcon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="mysqlIcon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="mysqlIcon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
 </div>
 
 ##
