@@ -13,7 +13,7 @@ Seja bem vindo, visitante! Meu nome é Marcos Vinícius e serei seu anfitrião!
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos1110&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos1110&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos1110&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
