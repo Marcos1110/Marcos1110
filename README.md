@@ -29,4 +29,4 @@ Seja bem vindo, visitante! Meu nome é Marcos Vinícius e serei seu anfitrião!
   <a href="https://www.linkedin.com/in/marcosvra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Sake animation](https://github.com/Marcos1110/Marcos1110)
+![Snake animation](https://github.com/Marcos1110/Marcos1110)
