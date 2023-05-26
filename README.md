@@ -2,7 +2,7 @@
 
 ![obi-wan-hello-there](https://github.com/Marcos1110/Marcos1110/assets/75844594/5bf26589-9098-4b7a-b359-c3f65771459c)
 
-Seja bem vindo, visitante! Meu nome é Marcos, ou Marcão se preferi, e serei seu anfitrião!
+Seja bem vindo visitante! Meu nome é Marcos, ou Marcão se preferir, e serei seu anfitrião!
 
 ### Como estamos?
 
@@ -31,3 +31,5 @@ Seja bem vindo, visitante! Meu nome é Marcos, ou Marcão se preferi, e serei se
   <a href="https://www.instagram.com/marcosreis1110/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcosvra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+Obrigado pela visita! E que a Força esteja com você velho(a) amigo(a)!
