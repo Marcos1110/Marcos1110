@@ -32,4 +32,6 @@ Seja bem vindo visitante! Meu nome é Marcos, ou Marcão se preferir, e serei se
   <a href="https://www.linkedin.com/in/marcosvra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+##
+
 Obrigado pela visita! E que a Força esteja com você velho(a) amigo(a)!
