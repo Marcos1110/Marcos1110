@@ -15,7 +15,6 @@ Seja bem vindo visitante! Meu nome é Marcos, ou Marcão se preferir, e serei se
 ### Tecnologias Conhecidas:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="javaIcon" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="cSharpIcon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="javaScriptIcon" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="nodeJsIcon" height="30" width="40" img src=  "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
