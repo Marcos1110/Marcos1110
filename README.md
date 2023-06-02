@@ -6,7 +6,7 @@ Seja bem vindo visitante! Meu nome é Marcos, ou Marcão se preferir, e serei se
 
 ### Como estamos?
 
-- 🔭 Em busca de uma oportunidade como desenvolvedor back-end
+- 🔭 Em busca de uma oportunidade como desenvolvedor
 - 🌱 Cursando Bacharelado em Sistemas de Informação pela Universidade de Uberaba (UNIUBE)
 - 📚 Estudando JavaScript com foco no back-end
 
