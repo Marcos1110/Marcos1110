@@ -6,7 +6,7 @@ Seja bem vindo visitante! Meu nome é Marcos, ou Marcão se preferir, e serei se
 
 - 🔭 Em busca de uma oportunidade como desenvolvedor
 - 🌱 Cursando Bacharelado em Sistemas de Informação pela Universidade de Uberaba (UNIUBE)
-- 📚 Estudando JavaScript com foco no back-end
+- 📚 Estudando Desenvolvimento Web
 
 ##
 
