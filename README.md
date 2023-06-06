@@ -1,7 +1,5 @@
 ## Hello There! 
 
-![obi-wan-hello-there](https://github.com/Marcos1110/Marcos1110/assets/75844594/5bf26589-9098-4b7a-b359-c3f65771459c)
-
 Seja bem vindo visitante! Meu nome é Marcos, ou Marcão se preferir, e serei seu anfitrião!
 
 ### Como estamos?
