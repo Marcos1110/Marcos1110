@@ -10,7 +10,6 @@ Seja bem vindo visitante! Meu nome é Marcos, ou Marcão se preferir, e serei se
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javaScriptIcon" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="nodeJsIcon" height="30" width="40" img src=  "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="html5Icon" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="cssIcon" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
