@@ -5,7 +5,7 @@ Seja bem vindo visitante! Meu nome é Marcos, ou Marcão se preferir, e serei se
 ### Como estamos?
 
 - 🔭 Em busca de uma oportunidade como desenvolvedor
-- 🌱 Cursando Bacharelado em Sistemas de Informação pela Universidade de Uberaba [7/8]
+- 🌱 Sistemas de Informação - UNIUBE [7/8]
 - 📚 Estudando React Native
 
 <div style="display: inline_block"><br>
