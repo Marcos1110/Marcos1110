@@ -6,12 +6,13 @@ Seja bem vindo visitante! Meu nome é Marcos, ou Marcão se preferir, e serei se
 
 - 🔭 Em busca de uma oportunidade como desenvolvedor
 - 🌱 Sistemas de Informação - UNIUBE [7/8]
-- 📚 Estudando React Native
+- 📚 Estudando Laravel
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javaScriptIcon" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="html5Icon" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="cssIcon" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="cssIcon" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
 
 #
