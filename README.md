@@ -1,12 +1,12 @@
 ## Hello There! 
 
-Seja bem vindo visitante! Meu nome é Marcos, ou Marcão se preferir, e serei seu anfitrião!
+Bem-vindo(a)!
 
 ### Como estamos?
 
 - 🔭 Em busca de uma oportunidade como desenvolvedor
-- 🌱 Sistemas de Informação - UNIUBE [7/8]
-- 📚 Estudando Laravel
+- 🌱 Sistemas de Informação - UNIUBE [8/8]
+- 📚 Estudando Desenvolvimento Web
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javaScriptIcon" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
