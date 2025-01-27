@@ -5,8 +5,8 @@ Bem-vindo(a)!
 ### Como estamos?
 
 - 🔭 Em busca de uma oportunidade como desenvolvedor
-- 🌱 Sistemas de Informação - UNIUBE [8/8]
-- 📚 Estudando Desenvolvimento Web
+- 🌱 Bacharel em Sistemas de Informação
+- 📚 Estudando Desenvolvimento de Aplicações Desktop com C#
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javaScriptIcon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
