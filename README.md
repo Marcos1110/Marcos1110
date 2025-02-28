@@ -5,7 +5,7 @@ Bem-vindo(a)!
 ### Como estamos?
 
 - 🔭 Em busca de uma oportunidade como desenvolvedor
-- 🌱 Bacharel em Sistemas de Informação pela Univesidade de Uberaba (UNIUBE)
+- 🌱 Formado em Sistemas de Informação pela Univesidade de Uberaba (UNIUBE)
 - 📚 Estudando Desenvolvimento de Aplicações Desktop com C#
 
 <div style="display: inline_block"><br>
