@@ -1,5 +1,5 @@
 <h1 align="center">Olá Mundo! Eu sou o Marcos!</h1>
-<h3 align="center">Um desenvolvedor em busca de um primeiro emprego.</h3>
+<h3 align="center">Um desenvolvedor em busca do primeiro emprego.</h3>
 
 - 💻 Atualmente trabalhando com Suporte Técnico
 - 🔭 Em busca de uma oportunidade como desenvolvedor backend
